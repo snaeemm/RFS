@@ -1,7 +1,7 @@
 ## Real vs Fake vs Synthetic faces
 
 <div align="center">
-    <img src="assets/Fig7.png" width="400" height="300">
+    <img src="assets/Fig7.png" width="400" height="275">
     <p></p>
 </div>
 
