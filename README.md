@@ -1,4 +1,4 @@
-## Real vs Fake vs Synthetic faces
+## Real vs Fake vs Synthetic Faces
 
 <div align="center">
     <img src="assets/Fig7.png" width="400" height="275">
