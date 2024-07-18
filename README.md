@@ -18,13 +18,13 @@
     <a href="https://github.com/snaeemm/RFS/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/license-CC%20BY--NC%204.0-97ca00?style=flat-square">
     </a>
-    <a href="https://arxiv.org/abs/2404.01878">
-        <img src="https://img.shields.io/badge/arXiv-2404.01878-b31b1b.svg?style=flat-square">
+    <a href="http://dx.doi.org/10.1109/fg59268.2024.10581973">
+        <img src="https://img.shields.io/badge/DOI-10.1109/fg59268.2024.10581973-b31b1b.svg?style=flat-square">
     </a>
 </div>
 
 This is the official repository for the paper 
-[Real, fake and synthetic faces - does the coin have three sides?](https://arxiv.org/abs/2404.01878).
+[Real, fake and synthetic faces - does the coin have three sides?](https://ieeexplore.ieee.org/document/10581973).
 
 ## Abstract
 With the ever-growing power of generative artificial
@@ -71,12 +71,15 @@ The other parts of this project is under the CC BY-NC 4.0 license. See [LICENSE]
 If you find this work useful in your research, please cite it.
 
 ```bibtex
-@misc{naeem2024real,
-      title={Real, fake and synthetic faces - does the coin have three sides?}, 
-      author={Shahzeb Naeem and Ramzi Al-Sharawi and Muhammad Riyyan Khan and Usman Tariq and Abhinav Dhall and Hasan Al-Nashash},
-      year={2024},
-      eprint={2404.01878},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@INPROCEEDINGS{10581973,
+  author={Naeem, Shahzeb and Al-Sharawi, Ramzi and Khan, M. Riyyan and Tariq, Usman and Dhall, Abhinav and Al Nashash, Hasan},
+  booktitle={2024 IEEE 18th International Conference on Automatic Face and Gesture Recognition (FG)}, 
+  title={Real, Fake and Synthetic Faces - Does the Coin Have Three Sides?}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-10},
+  keywords={Deep learning;Deepfakes;Ethics;Analytical models;Accuracy;Sensitivity;Generative AI},
+  doi={10.1109/FG59268.2024.10581973}}
 }
 ```
